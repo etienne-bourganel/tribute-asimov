@@ -80,6 +80,12 @@ iframe {
     padding: 1rem;
 }
 
+#last-paragraph a {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
 footer {
     font-size: 1.5rem;
     height: 20px;
